@@ -38,6 +38,7 @@ open index.html
 
 
 
-Contributions are welcome!  
+Contributions are welcome! We have currently used version 3.1,
+Contributors are open include new versions of CVSS 
 Open an issue for bugs or feature requests
 Fork the repo and submit a pull request
